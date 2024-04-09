@@ -1,7 +1,7 @@
 {
   "name": "Bholu",
   "website": "https://twitter.com/ymittal_NFT",
-  "description": "Software engineer by day, crypto enthusiast by night",
+  "description": "Hello, I'm a software engineer by day and a crypto enthusiast by night. Currently, I actively maintain validator nodes for various networks, on both testnets and mainnets. With EigenLayer, I have over three months of experience running an operator on Goerli/Holesky with 99.9% uptime and with support for multiple AVSs, viz. EigenLayer's native EigenDA, Mangata, and Omni.",
   "logo": "https://raw.githubusercontent.com/ymittal/eigenlayer/main/logo.png",
   "twitter": "https://twitter.com/ymittal_NFT"
 }
